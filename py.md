@@ -11,6 +11,8 @@ source ENV_DIR/bin/activate # linux/mac
 
 deactivate
 
+rm -rf ENV_DIR
+
 
 python3 -m pip install --upgrade pip
 python3 -m pip --version
