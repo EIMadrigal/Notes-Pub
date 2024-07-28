@@ -14,12 +14,12 @@ deactivate
 rm -rf ENV_DIR
 
 
-python3 -m pip install --upgrade pip
-python3 -m pip --version
+python -m pip install --upgrade pip
+python -m pip --version
 sudo yum install python3-pip
 
-python3 -m pip search xxx
-python3 -m pip install xxx
+python -m pip search xxx
+python -m pip install xxx
 
 ```
 
