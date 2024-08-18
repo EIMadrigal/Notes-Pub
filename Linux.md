@@ -38,3 +38,6 @@ dig example.com A +short +trace
 dig +answer +noall example.com @8.8.8.8  # custom DNS server
 
 ```
+
+
+[What are the differences between "su", "sudo -s", "sudo -i", "sudo su"](https://askubuntu.com/questions/70534/what-are-the-differences-between-su-sudo-s-sudo-i-sudo-su)
